@@ -1,0 +1,27 @@
+:root{
+    --color-dark-blue: #020E25;
+    --color-mid-dark-blue: #00439C;
+    --color-mid-blue: #0353AF;
+    --color-mid-lite-blue: #0663C2;
+    --color-grey: #C4C4C4;
+    --color-lite-grey: #E6E6E6;
+    --color-white: #FFFFFF;
+    --color-dark: #000000;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--color-grey);
+    background-color: var(--color-dark-blue) !important;
+}
+
+.navbar-content{
+    background: var(--color-mid-dark-blue) !important;
+}
+
+.nav-text{
+
+    color: var(--color-white) !important;
+}
